@@ -1,16 +1,21 @@
-## Hi there 👋
+- **Olá me chamo <ins>João Marcos Marinho Baron e tenho 16 anos</ins>**
+- **Estou cursando o <ins>ensino médio e curso</ins> tecnico no senai de tecnico em <ins>desinvolvimento de sistemas</ins>**
+- **Em meu planejamento de carreira desejo continuar na area de programação e no futuro talvez ingressar no empreendedorismo**
+- **Meus principais hobbies são Jogar, Jogos Escutar rock, acompanhar esportes como MMA, F1, Futebol e também gosto de praticar academia**
 
-<!--
-**joaomarcos33/joaomarcos33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://github.com/user-attachments/assets/6a326f38-835e-4aaf-957a-8f0779206f7a" width="300">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/user-attachments/assets/94c439c0-081f-4752-b2ab-54bc9b8ebfcc" width="300">
+
+<img src="https://github.com/user-attachments/assets/b1fb12ae-277e-4454-a607-a02ff6d77df8" width="200">
+
+
+ # 🤖 Minhas Habilidades  
+
+| 💡 Habilidade       | 🔍 Descrição |
+|--------------------|-------------|
+| 📚 Paciencia | Consigo Ter bastante paciencia em todas as situações |
+| 💻 Programação | Ajudo a escrever, corrigir e otimizar códigos. |
+| 🎯 Trabalho em equipe| Sou muito bom em fazer tarefas em equipe |
+| 🚀 Rapidez para executar taferas | consigo realizar tarefas rapidamente |
